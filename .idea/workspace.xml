@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fd73cf9-b68a-483c-97b3-0275547e6d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftVideoManipulationPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftVideoManipulationPlugin.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +78,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1238" height="391" key="GridCell.Tab.0.bottom" timestamp="1595486319158">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1238" height="391" key="GridCell.Tab.0.bottom/0.23.2560.1365@0.23.2560.1365" timestamp="1595486319158" />
+    <state width="1238" height="391" key="GridCell.Tab.0.center" timestamp="1595486319158">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1238" height="391" key="GridCell.Tab.0.center/0.23.2560.1365@0.23.2560.1365" timestamp="1595486319158" />
+    <state width="1238" height="391" key="GridCell.Tab.0.left" timestamp="1595486319158">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1238" height="391" key="GridCell.Tab.0.left/0.23.2560.1365@0.23.2560.1365" timestamp="1595486319158" />
+    <state width="1238" height="391" key="GridCell.Tab.0.right" timestamp="1595486319158">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1238" height="391" key="GridCell.Tab.0.right/0.23.2560.1365@0.23.2560.1365" timestamp="1595486319158" />
     <state x="1421" y="344" key="SettingsEditor" timestamp="1595483923711">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
