@@ -52,7 +52,7 @@ private class VideoManipulation {
     }
     
     static func generateVideoFromFrames(with frameProvider: FrameProvider, outputFilename: String, fps: Int, speed: Double, completion: @escaping (URL?) -> ()) {
-        let frameRate = CMTimeMake(1, Int32(Double(60*fps/60)))
+        let frameRate = CMTimeMake(value: 1,_ timescale: Int32(Double(60*fps/60)))
         let generator = ImageToVideoGenerator(frameProvider: frameProvider, outputFilename: outputFilename, frameRate: frameRate, completionBlock: completion)
         generator.startGenerating()
     }
